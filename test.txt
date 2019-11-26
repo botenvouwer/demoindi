@@ -1,2 +1,5 @@
 dit is een test
 nog iets toevoegen
+
+
+Joost lees ff die commit message van mijn 1 na laatste commit voor.
