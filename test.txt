@@ -1,4 +1,6 @@
 dit is een test
 nog iets toevoegen
-ik pas iets aan in de branch
 
+Joost lees ff die commit message van mijn 1 na laatste commit voor.
+
+ik pas iets aan in de branch
